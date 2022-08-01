@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: 1.0.2
+description: An application helm chart
+icon: https://www.engineerbetter.com/img/blog/suse-rancher.jpeg
+name: hello-rancher
+type: application
+version: 0.1.0
